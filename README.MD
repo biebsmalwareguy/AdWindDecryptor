@@ -1,1 +1,1 @@
-Corrected some of the code from https://github.com/mhelwig/adwind-decryptor/issues/1 and recompiled the JAR.  The code is all his; I just fixed a couple of things, and I can take no credit whatsoever for making the project.
+Corrected some of the code from https://github.com/mhelwig/adwind-decryptor/ and recompiled the JAR.  The code is all his; I just fixed a couple of things, and I can take no credit whatsoever for making the project.
